@@ -1,3 +1,6 @@
+Bu sistemde ilkin bir giriş ekranı karşımıza çıkar. Eğer kaydınız yok ise kayıt ol butonuna bastığınızda kayıt olma ekranı çıkar ve doldurulması gereken alanlar doğru bir şekilde doldurulduğunda kayıt ol butonuna basıp kayıt oluruz. Ve bastıktan sonra bizi giriş ekrnaına yönlendirir ve girşimizi yaptıktan somnra bizi 2 farklı sekme karşılar. İlk sekme de sistemde kayıtlı olan araçlardan birinin ismini yazıp butona bastığımızda aracın durumunu gösterir. Ama araç durum güncelle yaptığımızda ise Aracın kira durumunu günceller. Kiralama sekmesinde ise o aracı kiralayabilir ve o kiraladığımız aracın kirasını , iptal tuşuna basarak bitirebiliriz. Sistemimiz genel olarak böyle çalışır.İşte aşağıda Detaylar
+
+
 ![Resim 1](https://github.com/muratgull07/Arac-Kiralama-Sistemi/assets/148050387/6cc0b3ed-0a48-4fbb-a90a-f7c657bc3eec)
 
 
